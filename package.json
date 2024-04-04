@@ -1,0 +1,14 @@
+{
+  "name": "backend-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "viem": "^2.9.9"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.4"
+  }
+}
